@@ -1,0 +1,45 @@
+# FraudShield AI — Python Dependencies
+# Team QUOTIENT | Vibe-a-thon 2026
+
+# ─── API FRAMEWORK ───────────────────────────────────────
+fastapi==0.110.0
+uvicorn==0.27.0
+python-multipart==0.0.9
+pydantic==2.6.0
+python-dotenv==1.0.0
+
+# ─── CLAUDE API ──────────────────────────────────────────
+anthropic==0.21.0
+langchain==0.1.9
+langchain-anthropic==0.1.3
+
+# ─── MACHINE LEARNING ────────────────────────────────────
+torch==2.2.0
+torchvision==0.17.0
+torch-geometric==2.5.0
+scikit-learn==1.4.0
+numpy==1.26.4
+pandas==2.2.1
+
+# ─── EXPLAINABILITY ──────────────────────────────────────
+shap==0.44.1
+
+# ─── GRAPH DATABASE ──────────────────────────────────────
+neo4j==5.17.0
+networkx==3.2.1
+
+# ─── EVENT STREAMING ─────────────────────────────────────
+kafka-python==2.0.2
+
+# ─── DATABASE & CACHE ────────────────────────────────────
+psycopg2-binary==2.9.9
+redis==5.0.1
+sqlalchemy==2.0.28
+
+# ─── FEDERATED LEARNING ──────────────────────────────────
+syft==0.8.7
+
+# ─── UTILITIES ───────────────────────────────────────────
+httpx==0.27.0
+python-jose==3.3.0
+passlib==1.7.4
