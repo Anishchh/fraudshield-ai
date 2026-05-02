@@ -2,7 +2,7 @@
 
 India's first unified end-to-end fraud prevention platform — covering Customer Fraud AND Insider Threat simultaneously.
 
-Live Demo: https://fraudshield2.netlify.app
+Live Demo: https://fraudsheild3.netlify.app
 GitHub: https://github.com/Anishchh/fraudshield-ai
 Presentation: TeamQuotient_AndrewTomJacob_20260417.pdf
 Event: Vibe-a-thon 2026 | NMIT | Nexora Coding Club
@@ -204,7 +204,7 @@ LibraryVersionPurposeLicenseChart.js4.4.1Data visualizationMITIBM Plex Sans and 
 🚀 Setup
 Run Demo (No Setup Needed)
 Open directly in Chrome or visit the live deployment:
-https://fraudshield2.netlify.app
+https://fraudsheild3.netlify.app
 Backend Setup
 bashgit clone https://github.com/Anishchh/fraudshield-ai.git
 cd fraudshield-ai
